@@ -299,6 +299,356 @@
             "staking": false
           }
         }
+      },
+      {
+        "nombre": "Lemon",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
+      },
+      {
+        "nombre": "belo",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
+      },
+      {
+        "nombre": "Buenbit",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
+      },
+      {
+        "nombre": "Fiwind",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
+      },
+      {
+        "nombre": "Naranja X",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
+      },
+      {
+        "nombre": "Personal Pay",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
+      },
+      {
+        "nombre": "Brubank",
+        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
+        "url": "https://www.invertironline.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": false,
+            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": false,
+            "pagos_qr": false,
+            "servicios_y_recargas": false,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": false,
+            "cobros_con_qr": false
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
+            "obligaciones_negociables": true,
+            "letras": true,
+            "acciones_locales": true,
+            "opciones": true
+          },
+          "crypto": {
+            "buy": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "sell": {
+              "btc": false,
+              "eth": false,
+              "usd": false
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
+          }
+        }
       }
     ]
   }
