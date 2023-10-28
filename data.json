@@ -153,6 +153,60 @@
             }
           }
         ]
+      },
+      {
+        "fintechs": [
+          {
+            "nombre": "ieb+",
+            "logo": "https://images.deliveryhero.io/image/pedidosya/branded-vouchers/Logo_IBK.png", 
+            "url": "https://iebmas.com.ar/",
+            "funcionalidades": {
+              "banking": {
+                "cuenta_remunerada": false,
+                "tarjeta_debito_o_prepaga": false,
+                "tarjeta_de_credito": false,
+                "cvu_o_cbu": false,
+                "pagos_qr": false,
+                "servicios_y_recargas": false,
+                "creditos": false
+              },
+              "cobros": {
+                "pos": false,
+                "cobros_con_qr": false 
+              },
+              "remesas": {
+                "cuenta_en_usa": false
+              },
+              "inversiones": {
+                "fondos_comunes_de_inversion": false,
+                "cedears": false,
+                "obligaciones_negociables": false,
+                "letras": false,
+                "acciones_locales": false,
+                "opciones": false
+              },
+              "crypto": {
+                "buy": {
+                  "btc": false,
+                  "eth": false,
+                  "usd": false  
+                },
+                "sell": {
+                  "btc": false,
+                  "eth": false,
+                  "usd": false
+                },
+                "incoming_chains":{
+                  "lightning_network": false
+                },
+                "outgoing_chains":{
+                  "lightning_network": false
+                },
+                "staking": false
+              }
+            }
+          }
+        ]
       }
     ]
   }
