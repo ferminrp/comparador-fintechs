@@ -1,7 +1,7 @@
 {
     "fintechs": [
       {
-        "nombre": "Balanz", 
+        "nombre": "Balanz",
         "logo": "https://pbs.twimg.com/profile_images/1628884021638840320/SxhUxNkw_400x400.jpg",
         "url": "https://balanz.com/",
         "funcionalidades": {
@@ -16,7 +16,7 @@
           },
           "cobros": {
             "pos": false,
-            "cobros_con_qr": false  
+            "cobros_con_qr": false
           },
           "remesas": {
             "cuenta_en_usa": false
@@ -25,7 +25,7 @@
             "fondos_comunes_de_inversion": true,
             "cedears": true,
             "obligaciones_negociables": true,
-            "letras": true, 
+            "letras": true,
             "acciones_locales": true,
             "opciones": true
           },
@@ -33,18 +33,18 @@
             "buy": {
               "btc": false,
               "eth": false,
-              "usd": false  
+              "usd": false
             },
             "sell": {
               "btc": false,
-              "eth": false, 
+              "eth": false,
               "usd": false
             },
-            "incoming_chains":{
+            "incoming_chains": {
               "lightning_network": false
             },
-            "outgoing_chains":{
-              "lightning_network": false  
+            "outgoing_chains": {
+              "lightning_network": false
             },
             "staking": true
           }
@@ -52,7 +52,7 @@
       },
       {
         "nombre": "MercadoPago",
-        "logo": "https://pbs.twimg.com/profile_images/1609933607006519297/JfQLdV9q_400x400.jpg", 
+        "logo": "https://pbs.twimg.com/profile_images/1609933607006519297/JfQLdV9q_400x400.jpg",
         "url": "https://www.mercadopago.com/",
         "funcionalidades": {
           "banking": {
@@ -65,11 +65,11 @@
             "creditos": false
           },
           "cobros": {
-            "pos": true,  
+            "pos": true,
             "cobros_con_qr": true
           },
           "remesas": {
-            "cuenta_en_usa": false   
+            "cuenta_en_usa": false
           },
           "inversiones": {
             "fondos_comunes_de_inversion": false,
@@ -88,12 +88,12 @@
             "sell": {
               "btc": true,
               "eth": true,
-              "usd": true  
+              "usd": true
             },
-            "incoming_chains":{
+            "incoming_chains": {
               "lightning_network": false
             },
-            "outgoing_chains":{
+            "outgoing_chains": {
               "lightning_network": false
             },
             "staking": false
@@ -101,112 +101,104 @@
         }
       },
       {
-        "fintechs": [
-          {
-            "nombre": "Cocos Capital",
-            "logo": "https://pbs.twimg.com/profile_images/1534205524283117568/7sm3Z6r7_400x400.jpg",
-            "url": "https://cocos.capital//", 
-            "funcionalidades": {
-              "banking": {
-                "cuenta_remunerada": false,
-                "tarjeta_debito_o_prepaga": false,
-                "tarjeta_de_credito": false,
-                "cvu_o_cbu": false,
-                "pagos_qr": false,
-                "servicios_y_recargas": false, 
-                "creditos": false
-              },
-              "cobros": {
-                "pos": false,
-                "cobros_con_qr": false   
-              },
-              "remesas": {
-                "cuenta_en_usa": false  
-              },
-              "inversiones": {
-                "fondos_comunes_de_inversion": false,
-                "cedears": false,
-                "obligaciones_negociables": false,
-                "letras": false,
-                "acciones_locales": false,
-                "opciones": false 
-              },
-              "crypto": {
-                "buy": {
-                  "btc": false,
-                  "eth": false,
-                  "usd": false   
-                },
-                "sell": {
-                  "btc": false,
-                  "eth": false,
-                  "usd": false
-                },
-                "incoming_chains":{
-                  "lightning_network": false  
-                },
-                "outgoing_chains":{
-                  "lightning_network": false
-                },
-                "staking": false
-              }
-            }
+        "nombre": "Uala",
+        "logo": "https://pbs.twimg.com/profile_images/1609933607006519297/JfQLdV9q_400x400.jpg",
+        "url": "https://www.mercadopago.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": true,
+            "tarjeta_debito_o_prepaga": true,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": true,
+            "pagos_qr": true,
+            "servicios_y_recargas": true,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": true,
+            "cobros_con_qr": true
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": false,
+            "cedears": false,
+            "obligaciones_negociables": false,
+            "letras": false,
+            "acciones_locales": false,
+            "opciones": false
+          },
+          "crypto": {
+            "buy": {
+              "btc": true,
+              "eth": true,
+              "usd": true
+            },
+            "sell": {
+              "btc": true,
+              "eth": true,
+              "usd": true
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
           }
-        ]
+        }
       },
       {
-        "fintechs": [
-          {
-            "nombre": "ieb+",
-            "logo": "https://images.deliveryhero.io/image/pedidosya/branded-vouchers/Logo_IBK.png", 
-            "url": "https://iebmas.com.ar/",
-            "funcionalidades": {
-              "banking": {
-                "cuenta_remunerada": false,
-                "tarjeta_debito_o_prepaga": false,
-                "tarjeta_de_credito": false,
-                "cvu_o_cbu": false,
-                "pagos_qr": false,
-                "servicios_y_recargas": false,
-                "creditos": false
-              },
-              "cobros": {
-                "pos": false,
-                "cobros_con_qr": false 
-              },
-              "remesas": {
-                "cuenta_en_usa": false
-              },
-              "inversiones": {
-                "fondos_comunes_de_inversion": false,
-                "cedears": false,
-                "obligaciones_negociables": false,
-                "letras": false,
-                "acciones_locales": false,
-                "opciones": false
-              },
-              "crypto": {
-                "buy": {
-                  "btc": false,
-                  "eth": false,
-                  "usd": false  
-                },
-                "sell": {
-                  "btc": false,
-                  "eth": false,
-                  "usd": false
-                },
-                "incoming_chains":{
-                  "lightning_network": false
-                },
-                "outgoing_chains":{
-                  "lightning_network": false
-                },
-                "staking": false
-              }
-            }
+        "nombre": "PPI",
+        "logo": "https://pbs.twimg.com/profile_images/1609933607006519297/JfQLdV9q_400x400.jpg",
+        "url": "https://www.mercadopago.com/",
+        "funcionalidades": {
+          "banking": {
+            "cuenta_remunerada": true,
+            "tarjeta_debito_o_prepaga": true,
+            "tarjeta_de_credito": false,
+            "cvu_o_cbu": true,
+            "pagos_qr": true,
+            "servicios_y_recargas": true,
+            "creditos": false
+          },
+          "cobros": {
+            "pos": true,
+            "cobros_con_qr": true
+          },
+          "remesas": {
+            "cuenta_en_usa": false
+          },
+          "inversiones": {
+            "fondos_comunes_de_inversion": false,
+            "cedears": false,
+            "obligaciones_negociables": false,
+            "letras": false,
+            "acciones_locales": false,
+            "opciones": false
+          },
+          "crypto": {
+            "buy": {
+              "btc": true,
+              "eth": true,
+              "usd": true
+            },
+            "sell": {
+              "btc": true,
+              "eth": true,
+              "usd": true
+            },
+            "incoming_chains": {
+              "lightning_network": false
+            },
+            "outgoing_chains": {
+              "lightning_network": false
+            },
+            "staking": false
           }
-        ]
+        }
       }
     ]
   }
