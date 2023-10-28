@@ -106,7 +106,7 @@
         "url": "https://www.uala.com.ar/",
         "funcionalidades": {
           "banking": {
-            "cuenta_remunerada": true,
+            "cuenta_remunerada": false,
             "tarjeta_debito_o_prepaga": true,
             "tarjeta_de_credito": false,
             "cvu_o_cbu": true,
@@ -122,8 +122,8 @@
             "cuenta_en_usa": false
           },
           "inversiones": {
-            "fondos_comunes_de_inversion": false,
-            "cedears": false,
+            "fondos_comunes_de_inversion": true,
+            "cedears": true,
             "obligaciones_negociables": false,
             "letras": false,
             "acciones_locales": false,
@@ -131,14 +131,14 @@
           },
           "crypto": {
             "buy": {
-              "btc": true,
-              "eth": true,
-              "usd": true
+              "btc": false,
+              "eth": false,
+              "usd": false
             },
             "sell": {
-              "btc": true,
-              "eth": true,
-              "usd": true
+              "btc": false,
+              "eth": false,
+              "usd": false
             },
             "incoming_chains": {
               "lightning_network": false
