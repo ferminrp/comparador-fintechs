@@ -302,16 +302,16 @@
       },
       {
         "nombre": "Lemon",
-        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
-        "url": "https://www.invertironline.com/",
+        "logo": "https://pbs.twimg.com/profile_images/1529811619408117760/_gKE_CQT_400x400.jpg",
+        "url": "https://www.lemon.me/",
         "funcionalidades": {
           "banking": {
             "cuenta_remunerada": false,
-            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_debito_o_prepaga": true,
             "tarjeta_de_credito": false,
-            "cvu_o_cbu": false,
+            "cvu_o_cbu": true,
             "pagos_qr": false,
-            "servicios_y_recargas": false,
+            "servicios_y_recargas": true,
             "creditos": false
           },
           "cobros": {
@@ -319,49 +319,49 @@
             "cobros_con_qr": false
           },
           "remesas": {
-            "cuenta_en_usa": false
+            "cuenta_en_usa": true
           },
           "inversiones": {
-            "fondos_comunes_de_inversion": true,
-            "cedears": true,
-            "obligaciones_negociables": true,
-            "letras": true,
-            "acciones_locales": true,
-            "opciones": true
+            "fondos_comunes_de_inversion": false,
+            "cedears": false,
+            "obligaciones_negociables": false,
+            "letras": false,
+            "acciones_locales": false,
+            "opciones": false
           },
           "crypto": {
             "buy": {
-              "btc": false,
-              "eth": false,
-              "usd": false
+              "btc": true,
+              "eth": true,
+              "usd": true
             },
             "sell": {
-              "btc": false,
-              "eth": false,
-              "usd": false
+              "btc": true,
+              "eth": true,
+              "usd": true
             },
             "incoming_chains": {
-              "lightning_network": false
+              "lightning_network": true
             },
             "outgoing_chains": {
-              "lightning_network": false
+              "lightning_network": true
             },
-            "staking": false
+            "staking": true
           }
         }
       },
       {
         "nombre": "belo",
-        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
-        "url": "https://www.invertironline.com/",
+        "logo": "https://pbs.twimg.com/profile_images/1608876734249582593/jS7hVHZM_400x400.jpg",
+        "url": "https://www.belo.app/",
         "funcionalidades": {
           "banking": {
             "cuenta_remunerada": false,
-            "tarjeta_debito_o_prepaga": false,
+            "tarjeta_debito_o_prepaga": true,
             "tarjeta_de_credito": false,
-            "cvu_o_cbu": false,
+            "cvu_o_cbu": true,
             "pagos_qr": false,
-            "servicios_y_recargas": false,
+            "servicios_y_recargas": true,
             "creditos": false
           },
           "cobros": {
@@ -402,8 +402,8 @@
       },
       {
         "nombre": "Buenbit",
-        "logo": "https://pbs.twimg.com/profile_images/1417150335802609667/oqlw1c6a_400x400.jpg",
-        "url": "https://www.invertironline.com/",
+        "logo": "https://pbs.twimg.com/profile_images/1681298472782426113/nDMEc3-Y_400x400.png",
+        "url": "https://www.buenbit.com/",
         "funcionalidades": {
           "banking": {
             "cuenta_remunerada": false,
